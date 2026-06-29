@@ -13,6 +13,3 @@
 ![Page 1](screenshots/page1-sales-overview.png)
 ![Page 2](screenshots/page2-salesperson-detail.png)
 ![Page 3](screenshots/page3-detailed-analysis.png)
-
-## Author
-Aapka Naam — Aspiring Data Analyst
