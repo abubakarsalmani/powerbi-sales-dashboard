@@ -11,7 +11,7 @@
 
 ## Screenshots
 ![Page 1](https://github.com/abubakarsalmani/powerbi-sales-dashboard/blob/main/page1-sales-overview.png)
-![Page 2](screenshots/page2-salesperson-detail.png)
+![Page 2](https://github.com/abubakarsalmani/powerbi-sales-dashboard/blob/main/page2-salesperson-detail.png)
 ![Page 3](screenshots/page3-detailed-analysis.png)
 
 ## Author
